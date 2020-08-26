@@ -3,10 +3,10 @@
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
 ## Old
-_old
+*_old
 
 ## Backups
-_backup
+*_backup
 
 ## Temporary files
 tmp/
